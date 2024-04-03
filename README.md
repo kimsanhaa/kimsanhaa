@@ -1,5 +1,5 @@
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tksgk7411)](https://solved.ac/tksgk7411)
+
 
 <!--
 **kimsanhaa/kimsanhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
